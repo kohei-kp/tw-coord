@@ -5,7 +5,8 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "laravel/framework": "4.2.*"
+        "laravel/framework": "4.2.*",
+        "philo/laravel-twitter": "dev-master"
     },
     "autoload": {
         "psr-0": {
@@ -36,5 +37,5 @@
     "config": {
         "preferred-install": "dist"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
